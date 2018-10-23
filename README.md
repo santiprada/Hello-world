@@ -1,2 +1,2 @@
 # Hello-world
-cualquier cosa
+Aprendiendo a usar github, y así colaborar y aprender a programar más eficientemente. 
